@@ -1,4 +1,4 @@
 # Hospital-System-PHP-Laravel-project
 
-author: Mani
+author: Mani Qureshi
 
